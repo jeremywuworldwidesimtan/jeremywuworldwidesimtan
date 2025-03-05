@@ -1,8 +1,8 @@
 # About
 - I'm Jeremy
-  - This is not my real name
+- I'm a budding software developer, web developer and AI enthusiast
   
-### My opinion: I do not like Paul brothers boxing and will always support their opponent.
+### My only opinion: I do not like jack paul boxing and will always support their opponent (including Logan).
 
 <!---
 jeremywuworldwidesimtan/jeremywuworldwidesimtan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
